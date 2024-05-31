@@ -2,4 +2,4 @@ this is a text
 this is a test 
 :wq
 	
-I have a dog
+I have a cat
